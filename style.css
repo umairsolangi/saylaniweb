@@ -1,0 +1,459 @@
+@font-face {
+    font-family: Ubuntu-Regular;
+    src: url(fonts/Ubuntu-Regular.ttf);
+    
+}
+
+.icon {
+    background-color: rgb(47, 161, 255);
+    width: 100%;
+    height: 80px;
+}
+
+p {
+    font-size: large;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 2px;
+    left: 200px;
+}
+
+h2 {
+    color: rgb(255, 251, 0);
+    text-align: center;
+    position: absolute;
+    top: 40px;
+    left: 350px;
+}
+
+.mian {
+    background-color: rgb(233, 233, 233);
+    width: 940px;
+    height: 60px;
+}
+
+.logo {
+    width: 200px;
+    height: 60px;
+}
+
+#home {
+    position: absolute;
+    top: 110px;
+    left: 240px;
+    font-size: larger;
+}
+
+a:hover {
+    background-color: rgb(4, 126, 240);
+    color: white;
+    border-radius: 60%;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 100px;
+    left: 210px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: Ubuntu-Regular;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+}
+
+li {
+    float: left;
+}
+
+input {
+    height: 30px;
+    position: absolute;
+    top: 100px;
+    right: 50px;
+}
+
+#search {
+    position: absolute;
+    top: 105px;
+    right: 55px;
+}
+
+.slide {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(4, 126, 240);
+    color: white;
+    position: relative;
+    top: 3px;
+}
+
+.scroll {
+    position: relative;
+    top: 5px;
+}
+
+.introduction {
+    background-color: rgb(248, 248, 239);
+    width: 100%;
+    height: 500px;
+}
+
+#intro {
+    color: rgb(2, 146, 241);
+    font-family: Ubuntu-Regular;
+    position: relative;
+    left: 370px;
+    font-size: 35px
+}
+
+#duction {
+    color: rgb(66, 194, 66);
+    font-family: Ubuntu-Regular;
+    position: absolute;
+    top: 585px;
+    left: 480px;
+    font-size: 35px
+}
+
+#introp {
+    position: absolute;
+    top: 650px;
+    left: 20px;
+    color: rgb(110, 108, 108);
+    text-align: justify;
+}
+
+#introp2 {
+    position: absolute;
+    top: 730px;
+    left: 20px;
+    color: rgb(110, 108, 108);
+    text-align: justify;
+}
+
+#introp3 {
+    position: absolute;
+    top: 850px;
+    left: 20px;
+    color: rgb(110, 108, 108);
+    text-align: justify;
+}
+
+#introp4 {
+    position: absolute;
+    top: 960px;
+    left: 20px;
+    color: rgb(110, 108, 108);
+    text-align: justify;
+}
+
+.circle {
+    background-color: rgb(2, 141, 255);
+    width: 1000px;
+    height: 300px;
+}
+
+.circle>img {
+    width: 70px;
+    color: white;
+    position: relative;
+    top: -29px;
+    left: 36px;
+    padding: 70px;
+}
+
+.one {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 1227px;
+    left: 105px;
+    color: white;
+}
+
+.two {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 1226px;
+    left: 338px;
+    color: white;
+}
+
+.three {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 1224px;
+    left: 539px;
+    color: white;
+}
+
+.four {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 1219px;
+    left: 748px;
+    color: white;
+}
+
+.five {
+    position: absolute;
+    top: 1276px;
+    left: 50px;
+    color: white;
+}
+
+.six {
+    position: absolute;
+    top: 1276px;
+    left: 275px;
+    color: white;
+}
+
+.seven {
+    position: absolute;
+    top: 1276px;
+    left: 539px;
+    color: white;
+}
+
+.eight {
+    position: absolute;
+    top: 1276px;
+    left: 741px;
+    color: white;
+}
+.nine{
+    position: absolute;
+    top: 1323px;
+    left: 753px;
+    color: rgb(32, 223, 14);
+}
+.ten{
+    position: absolute;
+    top: 1322px;
+    left: 96px;
+    color: rgb(32, 223, 14);
+}
+.eleven{
+    position: absolute;
+    top: 1321px;
+    left: 325px;
+    color: rgb(32, 223, 14);
+}
+.twovelv{
+    position: absolute;
+    top: 1324px;
+    left: 541px;
+    color: rgb(32, 223, 14);
+}
+.whatwe{
+    color: rgb(0, 153, 255);
+    position: relative;
+    left: 332px;
+    
+}
+.aredoing{
+    color: green;
+    position: relative;
+    top: -59px;
+    left: 495px;
+}
+.maindiv{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 700px;
+    align-content: center;
+    color: rgb(2, 91, 235);
+   
+
+    
+
+}
+    .div1{
+        
+         width: 250px;
+         height: 150px;
+         margin: 20px;
+         box-shadow:5px 5px 5px rgb(196, 195, 195);
+         
+         
+    }
+
+    .div1>a{
+        position: relative;
+        left: 67px;
+    }
+    .div2{
+   
+         width: 250px;
+         height: 150px;
+         margin: 20px;
+         position: absolute;
+         top: 1531px;
+         left: 319px;
+         box-shadow:5px 5px 5px rgb(196, 195, 195);
+
+    }
+    .div2>a{
+            position: relative;
+            left: 67px;
+        }
+    
+    .div3{
+        
+         width: 250px;
+         height: 150px;
+         margin: 20px;
+         position: absolute;
+         top: 1531px;
+         left: 645px;
+         box-shadow:5px 5px 5px rgb(196, 195, 195);
+
+    }
+    .div3>a{
+        position: relative;
+        left: 67px;
+    }
+    
+.div4{
+   
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    box-shadow:5px 5px 5px rgb(196, 195, 195);
+
+}
+.div4>a{
+    position: relative;
+    left: 67px;
+}
+.div5{
+    
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    position: absolute;
+    top: 1701px;
+    left: 319px;
+    box-shadow:5px 5px 5px rgb(196, 195, 195);
+
+}
+.div5>a{
+    position: relative;
+    left: 67px;
+}
+.div6{
+   
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    position: absolute;
+    top: 1701px;
+    left: 646px;
+    box-shadow:5px 5px 5px rgb(196, 195, 195);
+
+}
+.div6>a{
+    position: relative;
+    left: 80px;
+    cursor: pointer;
+   
+}
+.project1{
+    width: 300px;
+    height: 80px;
+    background-color: #dfdfdf;
+    margin: 20px;
+}
+
+.project2{
+    width: 300px;
+    height: 80px;
+    background-color: #dfdfdf;
+    margin: 20px;
+}
+
+.project3{
+    width: 300px;
+    height: 80px;
+    background-color: #dfdfdf;
+    margin: 20px;
+    position: relative;
+    left: 319px;
+    top: -100px
+    
+}
+
+.project4{
+    width: 300px;
+    height: 80px;
+    background-color: #dfdfdf;
+    margin: 20px;
+    position: absolute;
+    bottom: 201px;
+    left: 318px;
+}
+.project{
+    color: #006aff;
+ margin: 20px;
+ position: absolute;
+ top: 1900px;
+ 
+}
+
+
+.upcomingevents{
+    position: absolute;
+    bottom: -1600px;
+    left: 700px;
+    
+}
+.upcomingevents>h1{
+    color: #006aff;
+    
+}
+
+
+
+.h2{
+    position: relative;
+    left: 19px;
+    top: -43px;
+}
+.h22{
+    position: relative;
+    left: -6px;
+    top: -44px
+}
+.h222{
+    position: relative;
+    left: 24px;
+    top: -50px;
+}
+.h2222{
+    position: relative;
+    left: 24px;
+    top: -50px
+}
+.footer{
+    background-color: rgb(56, 56, 56);
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+.footerul{
+    color: white;
+    list-style-type: none;
+}
